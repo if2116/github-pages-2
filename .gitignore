@@ -144,3 +144,6 @@ cython_debug/
 node_modules/
 /node_modules/
 *.zip
+/push.sh
+/run_pull.sh
+/run_push.sh
